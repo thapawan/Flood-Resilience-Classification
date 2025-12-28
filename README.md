@@ -2,7 +2,7 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.12345678.svg)](https://doi.org/10.5281/zenodo.12345678) <!-- Optional: Add when you have a DOI -->
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Earth Engine](https://img.shields.io/badge/Google%20Earth%20Engine-Enabled-brightgreen)](https://earthengine.google.com/)
+[![Earth Engine](https://img.shields.io/badge/Google%20Earth%20Engine-Enabled-brightgreen)](https://skilful-boulder-440618-e7.projects.earthengine.app/view/flood-resilience)
 
 A data-driven, reproducible framework for classifying landscape flood resilience into distinct, statistically validated categories using annual satellite embeddings in Google Earth Engine.
 
