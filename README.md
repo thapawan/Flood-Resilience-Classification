@@ -7,7 +7,7 @@
 A data-driven, reproducible framework for classifying landscape flood resilience into distinct, statistically validated categories using annual satellite embeddings in Google Earth Engine.
 
 > **Key Publication:** This code and methodology support the findings presented in:  
-> *"A Data-Driven Framework for Post-Flood Recovery and Resilience Classification Using Multi-Temporal Satellite Embeddings"* (Manuscript in Prep./Submitted).
+> *"A Data-Informed Framework for Post-Flood Recovery and Resilience Classification Using Multi-Temporal Satellite Embeddings"*.
 
 ---
 
@@ -109,7 +109,7 @@ If you use this framework or code in your research, please cite the associated m
 @software{Flood_Resilience_GEE_2024,
   author = {Author},
   title = {Flood-Resilience-Classification-GEE},
-  year = {2024},
+  year = {2026},
   publisher = {GitHub},
   journal = {GitHub repository},
   howpublished = {\url{https://github.com/thapawan/Flood-Resilience-Classification-GEE}}
