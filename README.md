@@ -102,11 +102,11 @@ Applying this framework to a 100 km² area revealed:
 
 If you use this framework or code in your research, please cite the associated manuscript (details TBD upon publication). For now, you can cite this repository:
 
-> Author. (2024). Flood-Resilience-Classification-GEE: A Data-Driven Framework for Post-Flood Resilience Classification using Satellite Embeddings. GitHub repository. https://github.com/thapawan/Flood-Resilience-Classification-GEE
+> Author. (2026). Flood-Resilience-Classification-GEE: A Data-Driven Framework for Post-Flood Resilience Classification using Satellite Embeddings. GitHub repository. https://github.com/thapawan/Flood-Resilience-Classification-GEE
 
 **BibTeX:**
 ```bibtex
-@software{Flood_Resilience_GEE_2024,
+@software{Flood_Resilience_GEE_2026,
   author = {Author},
   title = {Flood-Resilience-Classification-GEE},
   year = {2026},
